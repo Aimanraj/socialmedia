@@ -1,0 +1,59 @@
+@media (min-width:181px) and (max-width:480px) {
+    
+    #image1{
+        height: 94vh;
+        background-image: url(img/img/off.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    #start{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        color: #000000;
+    }
+    #btn3{
+        background-color: darkorange;
+        color: white;
+        width: 142px;
+        padding: 4px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 17px;
+        height: 40px;
+    
+    
+        
+    }
+    #h1{
+        /* z-index: 3; */
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 30px;
+        padding: 34px;
+        /* letter-spacing: 8px; */
+    }
+    
+    
+    
+    #para{
+        font-family: Arial, Helvetica, sans-serif;
+        /* font-size: 22px; */
+        color: black;
+        /* padding: 60px; */
+    }
+    #head{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 60px;
+        color: black;
+    }
+    #lorem{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 15px;
+        color: rgb(146, 136, 136);
+    }
+    #footer{
+        background-color: #000000;
+        width: 100%;
+        height: 180vh;
+        text-align: center;
+    }
+
+}

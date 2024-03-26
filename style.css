@@ -1,0 +1,458 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+  
+#nav{
+    -webkit-box-shadow: 5px 5px 5px 0px #a55916, inset 4px 4px 15px 0px #a95c2c, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); ; 
+    background-color: white;
+}
+#links{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    /* background-color: #ffffff; */
+    /* border-radius: 2px solid black; */
+    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); ; 
+    background-color: white;
+}
+
+#a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif    ;
+    font-size: 18px;
+    color: black;
+    padding: 20px;
+
+}
+#a:hover{
+    transform: 0.2s;
+    color: darkorange;
+    cursor: pointer;
+    
+}
+
+#btn1{
+    color: white;
+    background-color: darkorange;
+    width: 200px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20px;
+    height: 50px;
+    border-color: darkorange;
+    text-align: center;
+
+    
+}
+#image1{
+    width: 100%;
+    height: 900px;
+
+    background-image: url(img/img/off.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /* opacity: 0.5; */
+}
+#h1{
+    /* z-index: 3; */
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 55px;
+    padding: 40px;
+    /* letter-spacing: 8px; */
+}
+#start{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #000000;
+}
+
+#spn{
+    color:darkorange;
+}
+
+
+#para{
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-size: 22px; */
+    color: black;
+    /* padding: 60px; */
+}
+#head{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: black;
+}
+#lorem{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: rgb(146, 136, 136);
+}
+
+#box1{
+    width: 100%;
+    height: 400px;
+    background-color:rgb(255, 255, 255);
+    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); ;
+}
+#box1:hover{
+   background-color: black;
+   cursor: pointer;
+   color: white;
+}
+#creative{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: darkorange;
+    /* border-color:black; */
+}
+#creative:hover{
+    color: darkorange;
+
+}
+/* #box2{
+    background-color: black;
+    width: 50%;
+    height: 150px;
+    position: absolute;
+    z-index: 20;
+    margin-top: -174px;
+    margin-left: 400px;
+    
+} */
+
+#iden{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+
+}
+#cor{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    /* padding: 200px; */
+    font-size: 17px;
+}
+#we{
+    font-family: fantasy;
+    font-size: 60px;
+    color: black;
+
+}
+#we2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color: black;
+
+}
+#table1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: black;
+}
+#table2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: black;
+}
+#btn2{
+    background-color: darkorange;
+    color: white;
+    width: 200px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20px;
+    height: 50px;
+    /* border-color: black; */
+}
+
+
+
+/* #image1 {
+    opacity: 0.4;
+  } */
+#btn3{
+    background-color: darkorange;
+    color: white;
+    width: 200px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20px;
+    height: 50px;
+}
+
+
+#new{
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+#Enter{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px ;
+    color: black;
+}
+#btn4 {
+    background-color: darkorange;
+    color: white;
+    width: 200px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20px;
+    height: 50px;
+}
+#our{
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-size: 22px; */
+    color: black;
+    /* padding: 60px; */
+}
+#Awards{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: black;
+}
+#btn5 {
+   
+    color: rgb(0, 0, 0);
+    width: 200px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20px;
+    height: 50px;
+}
+
+#logo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+#uniq{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    color: #000000;
+}
+#desing{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 25px;
+}
+#piter{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px ;
+    color: black;
+}
+#abc{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: #000000;
+}
+#doctors{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(159, 148, 148);
+}
+
+/* counter open */
+.counter {
+    background-color: #f5f5f5;
+    padding: 20px 0;
+    border-radius: 5px;
+  }
+  
+  .count-title {
+    font-size: 50px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+  }
+  
+   .fa-2x {
+    margin: 0 auto;
+    float: none;
+    display: table;
+    color: #4ad1e5;
+  }
+
+  #java{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: #858080;
+  }
+/* counter close */
+
+  
+#about{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #898282;
+}
+#our1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: #000000;
+}
+
+
+
+/* div hover open */
+#div{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); ;
+}
+#div2{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); ;
+}
+#div3{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); ;
+}
+#div{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); ;
+}
+
+#div:hover{
+    background-image: url(img/ght/b.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    opacity: 0.9;
+    cursor: pointer;
+}
+#div2:hover{
+    background-image: url(img/ght/c.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    opacity: 0.9;
+    cursor: pointer;
+}
+#div3:hover{
+    background-image: url(img/ght/a.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+
+#style{
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+#april{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#how{
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+#how1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: darkorange;
+}
+
+/* div hover close */
+
+/* div form open */
+#contect{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: black;
+}
+#have{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: black;
+}
+#info{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(110, 100, 100);
+}
+#num{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+}
+
+
+#inputEmail4{
+    border-style: hidden;
+    border-bottom: 1px solid ;
+    border-radius: 0px;
+}
+
+
+/* div form close */
+
+#footer{
+    background-color: #000000;
+    width: 100%;
+    height: 500px;
+}
+#footer1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+
+#germ{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: rgb(99, 91, 91);
+}
+#germ1{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+}
+#link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:19px ;
+    color:rgb(99, 91, 91);
+
+}
+#icon{
+    /* background-color: rgb(0, 0, 0); */
+    color: #ffffff;
+    /* border-radius: 50px; */
+}
+#hr{
+    color: white;
+}
+#copy{
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #898282;
+}
